@@ -6,11 +6,12 @@ CSS,LESS,2
 Languages,Javascript,0
 Languages,Ruby,0
 Languages,Java,0
+Javascript,ES6,1
 Framework/Library,Bootstrap,0
 Framework/Library,jQuery,0
 Framework/Library,React JS,0
 Framework/Library,Sinatra,0
-Framework/Library,Materialize CSS,
+Framework/Library,Materialize CSS,1
 Framework/Library,Ruby on Rails,0
 Javascript,Typescript,2
 Testing,RSpec,0
