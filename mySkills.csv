@@ -10,19 +10,22 @@ Framework/Library,Bootstrap,0
 Framework/Library,jQuery,0
 Framework/Library,React JS,0
 Framework/Library,Sinatra,0
+Framework/Library,Materialize CSS,
 Framework/Library,Ruby on Rails,0
+Javascript,Typescript,2
 Testing,RSpec,0
 Testing,Capybara,0
 Testing,Cucumber,0
 Testing,Guard,0
 Testing,BDD,0
 Testing,TDD,0
-Tools,Ajax,0
 Tools,API,0
-Tools,Json,0
 Tools,RESTful,0
-Tools,Webpack,0
 Tools,Git,0
 Tools,Vim,0
 Tools,Heroku,0
 Tools,Pivatol Tracker,0
+Tools,Build Tools,0
+Build Tools,Webpack,1
+API,Ajax,1
+API,json,1
