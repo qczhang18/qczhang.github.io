@@ -4075,9 +4075,9 @@ body {
 
 .portfolio-figure .portfolio-cat {
     color: #a7a9ab;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1.1;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 .portfolio-figure .btn-group a {
